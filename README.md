@@ -1,24 +1,3 @@
-# Navigate to your project folder
-cd path/to/your/ai-usage-impact-dashboard
-
-# Initialize git if you haven't already
-git init
-
-# Add the remote repository (replace with your GitHub repo URL)
-git remote add origin https://github.com/your-username/ai-usage-impact-dashboard.git
-
-# Stage all files
-git add .
-
-# Commit your changes
-git commit -m "Initial commit - add AI Usage Impact Dashboard"
-
-# Push to GitHub
-git push -u origin master
-Step 4: Create a README.md File
-Here is a professional README template tailored for your project. Save this as README.md in your project root:
-
-text
 # AI Usage Impact Dashboard
 
 An interactive, user-friendly dashboard that estimates the environmental and financial impact of using popular AI chatbots based on the number of queries submitted.
