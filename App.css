@@ -1,0 +1,19 @@
+.comparison {
+  font-size: 0.9em;
+  color: #666;
+  margin-top: 0.5em;
+}
+
+.legal-section {
+  margin: 2em 0;
+  padding: 1em;
+  background: #fff8e1;
+  border-radius: 8px;
+}
+
+.legal-section li {
+  margin: 0.5em 0;
+  padding: 0.5em;
+  background: #fff;
+  border-radius: 4px;
+}
